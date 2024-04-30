@@ -1,0 +1,12 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "Practice writing parser",
+  "main": "src/parser.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/test/parser.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
